@@ -1,0 +1,37 @@
+[
+  {
+    "title": "OpenAI发布新的GPT模型",
+    "summary": "OpenAI宣布推出新一代GPT模型，具有更强的推理能力和多模态支持。",
+    "url": "https://example.com/openai-new-model",
+    "published_at": "2026-02-11T00:00:00Z",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google DeepMind展示AI在医疗诊断中的突破",
+    "summary": "DeepMind的新算法在癌症早期检测方面达到了专家级水平，准确率超过95%。",
+    "url": "https://example.com/deepmind-medical-ai",
+    "published_at": "2026-02-11T00:00:00Z",
+    "source": "Nature"
+  },
+  {
+    "title": "Meta开源新的AI训练框架",
+    "summary": "Meta发布了名为PyTorch 3.0的深度学习框架，支持更高效的分布式训练。",
+    "url": "https://example.com/meta-pytorch-3",
+    "published_at": "2026-02-11T00:00:00Z",
+    "source": "Meta AI Blog"
+  },
+  {
+    "title": "AI芯片初创公司融资10亿美元",
+    "summary": "专注于AI加速器的初创公司Cerebras获得10亿美元D轮融资，估值达到80亿美元。",
+    "url": "https://example.com/cerebras-funding",
+    "published_at": "2026-02-11T00:00:00Z",
+    "source": "Bloomberg"
+  },
+  {
+    "title": "欧盟通过AI法案最终版本",
+    "summary": "欧盟议会通过了AI法案的最终版本，为高风险AI系统设定了严格的监管框架。",
+    "url": "https://example.com/eu-ai-act",
+    "published_at": "2026-02-11T00:00:00Z",
+    "source": "European Commission"
+  }
+]
