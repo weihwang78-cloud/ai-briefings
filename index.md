@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 三领域每日简报
+title: "三领域每日简报"
 ---
 
 # 🌊 三领域每日简报
@@ -9,12 +9,11 @@ title: 三领域每日简报
 
 ## 📅 最新简报
 
-{% for post in site.posts limit:3 %}
-### [{{ post.title }}]({{ post.url }})
-**{{ post.date | date: "%Y年%m月%d日" }}** - {{ post.excerpt | strip_html | truncatewords:20 }}
+ [2026年2月13日](briefings/2026-02-13.md)
+ - AI趋势、海洋工程创新、市场动态完整分析
 
-{% endfor %}
+ 更新时间: 2026-02-13 09:30:00
 
 ---
 
-*每日7:30自动更新 | © 2026 Moton - 为炜华定制的三领域简报服务*
+*每日7:30自动更新，8:00前发布 | © 2026 Moton - 为炜华定制的三领域简报服务*
