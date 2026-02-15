@@ -1,0 +1,14 @@
+title: 三领域每日简报
+description: AI技术 · 海洋工程 · 金融市场
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
